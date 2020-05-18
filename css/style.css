@@ -25,3 +25,7 @@ tbody {
     vertical-align: left;
     border-color:inherit;
 }
+
+blockquote {
+    color: black;
+}

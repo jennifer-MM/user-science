@@ -1,3 +1,8 @@
+.list-group-item {
+    color: rgb(3, 3, 90);
+    font-size: 16;
+}
+
 h3 {
     color: #0000ff;
 }
@@ -36,4 +41,31 @@ blockquote {
 .nav-link-dropdown-toggle {
     color: white:
     font-size: 14;
+ }
+ 
+
+.post-venryn {
+    margin: 0 0 10px;
+    font-family: 'VenrynSansRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: purple;
+ } 
+
+ .post-fun {
+    font-family: 'FuntypeRegular';
+    font-weight: normal;
+    font-style: normal;
+ }
+
+ .post-dogica {
+    font-family: 'DogicaRegular';
+    font-weight: normal;
+    font-style: normal;
+ }
+
+ .post-betina {
+    font-family: 'BetinaSansRegular';
+    font-weight: normal;
+    font-style: normal;
  }

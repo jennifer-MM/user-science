@@ -2,10 +2,12 @@
     color: rgb(3, 3, 90);
     font-size: 16;
 }
-
-h3 {
-    color: #0000ff;
+.goToFonts {
+    color:white;
+    background-color: rgb(236, 84, 57);
+    font-size: 24;
 }
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
